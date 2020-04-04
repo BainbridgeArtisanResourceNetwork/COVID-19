@@ -10,4 +10,4 @@ to assist construction.
 * Venkrat 
   * Main Page [3D Printed Protective Visor](https://3dverkstan.se/protective-visor/) 
   * source of STL models [Venkrat Github Models](https://github.com/Cederb/Faceshield.nu/tree/master/North%20America/3D%20Printing%20Files%20(STL))
-* NIH
+* Stratasys (NIH)
