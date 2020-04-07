@@ -20,7 +20,5 @@ to assist construction.
 
 ## Current Activities
 please see the wiki page for this project .[Face Shield wiki](https://github.com/BainbridgeArtisanResourceNetwork/COVID-19/wiki/Face-Shields)
-* 4/5 - Doug has been meeting with members of Bainbridge Prepares (link needed here). Mostly, they have been telling him they are finding commercial sources, but recently have been considering locally made devices. Doug is meeting with them to shown them samples of various designs and find out which they prefer (and which they reject).
-*4/5 - NEED
 
 ## Our Wiki
