@@ -6,6 +6,6 @@ It appears that the ears are only for reinforcement.    VM will test to see if t
 
 Shields currently being cut from 11x17" 10 mils thick PVC sheets on CNC-driven drag knife.    Ears cut from 7 mils PET sheets on laser.
 
-(Another design)[https://drive.google.com/drive/folders/1Ry5PaQjYKrZ1OIPwYW5GGig2F9Qbq18J]
+[Another design](https://drive.google.com/drive/folders/1Ry5PaQjYKrZ1OIPwYW5GGig2F9Qbq18J)
 
-(From SomethingLabs)[https://www.somethinglabs.org/papr-shield]
+[From SomethingLabs](https://www.somethinglabs.org/papr-shield)
